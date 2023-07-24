@@ -53,4 +53,5 @@ Check out my [portfolio website](link-to-portfolio) for more in-depth articles a
 ## 📫 Let's Connect
 
 - Email: bewuket1621@gmail.com
+- Linkedin: https://www.linkedin.com/in/bewuket-b-71287222b
 
