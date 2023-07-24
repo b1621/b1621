@@ -29,7 +29,7 @@ I'm a passionate Full Stack Developer with a love for crafting clean and efficie
   - Node.js  |  Express | Python | Django
 
 - Database: 
-  - MySql  |  PostgreSQL  |  Mongodb <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg/>
+  - MySql  |  PostgreSQL  |  Mongodb
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
