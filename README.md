@@ -26,6 +26,15 @@ I'm a passionate Full Stack Developer with a love for crafting clean and efficie
 - Back-end: Node.js, Express
 - Other: Python
 
+- Front-end: 
+  - [HTML](https://th.bing.com/th/id/OIP.qCW__3jFWBUxPjEbCFMIDgHaHa?pid=ImgDet&rs=1)  |  CSS  |  Tailwind CSS  |  React
+
+- Back-end: 
+  - Node.js  |  Express
+
+- Other: 
+  - Python
+<!--
 ## 🔭 Projects
 
 ### Project 1: [Project Name 1](link-to-repo-or-demo)
@@ -50,6 +59,7 @@ Check out my [portfolio website](link-to-portfolio) for more in-depth articles a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true)
 
+-->
 ## 📫 Let's Connect
 
 - Email: your@email.com
