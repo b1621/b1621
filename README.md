@@ -30,13 +30,14 @@ I'm a passionate Full Stack Developer with a love for crafting clean and efficie
 
 - Database: 
   - MySql  |  PostgreSQL  |  Mongodb <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg/>
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+</p> -->
 - Other:
   - Github  |  Figma    
 <!--
@@ -67,6 +68,5 @@ Check out my [portfolio website](link-to-portfolio) for more in-depth articles a
 -->
 ## 📫 Let's Connect
 
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
+- Email: bewuket1621@gmail.com
+
